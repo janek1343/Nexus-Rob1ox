@@ -1,3 +1,5 @@
+![Preview Image](OIP.jpg)
+
 Nexus-Roblox Repository
 Description
 Welcome to the Nexus-Roblox repository! Here you can find a collection of powerful Roblox scripts designed to enhance your gaming experience. These scripts are carefully crafted to provide efficient execution without risking bans, giving you access to advanced scripting tools for your Roblox games.
